@@ -65,7 +65,17 @@ plt.show()
 # Output 
 ![image](https://github.com/gauthamkrishna7/Correlation_Regression/assets/141175025/ee5f0956-ef5c-48f7-863d-c802343a1db0)
 
+
+
+
 ![image](https://github.com/gauthamkrishna7/Correlation_Regression/assets/141175025/b7324d12-f1bb-409c-b078-632f9db660c7)
+
+
+
+
+
+
+
 
 
 
